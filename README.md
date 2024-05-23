@@ -14,8 +14,9 @@ Extending the Common Greenhouse Ontology with Incident Reporting from Autonomous
 - [Tim EICHHORN] - 
 - [Ghusen Chalan] - [*@cosina14*](https://github.com/Cosina14)
 - [Simon VAN ROOZENDAAL] - [*@Simonvnroozendaal*](https://github.com/SimonvRoozendaal)
+- [Jens REIL] -
+- [Jo ̃ao REBELO MOREIRA]
 - [Tiago Prince Sales](https://www.researchgate.net/profile/Tiago_Prince_Sales) - [*@tgoprince*](https://github.com/tgoprince)
-- [Giancarlo Guizzardi](http://www.inf.ufes.br/~gguizzardi/)
-- [Claudenir M. Fonseca](https://www.researchgate.net/profile/Claudenir-Fonseca) - [*@claudennirmf*](https://github.com/claudennirmf)
+
 
 
