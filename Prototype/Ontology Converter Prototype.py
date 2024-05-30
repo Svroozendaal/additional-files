@@ -18,7 +18,7 @@ LOCATION = Namespace(CGO + "Location")
 NOTIFICATION = Namespace(CGO + "Notification")
 HONESTMESSAGE = Namespace(CGO + "HonestMessage")
 CRMESSAGE = Namespace(CGO + "CoRangerMessage")
-
+ 
 graph.bind("cgo", CGO)
 graph.bind("om", OM)
 graph.bind("ssn", SSN)
